@@ -19,11 +19,11 @@
 1. Убедитесь, что у вас установлен **Python 3.x**.
 2. Склонируйте репозиторий:
   ```bash
-  git clone [https://github.com/ВАШ_НИК/phishing-email-simulator.git](https://github.com/ВАШ_НИК/phishing-email-simulator.git)
+  git clone [git@github.com:aibraikhan/Phishing-Email-Simulator.git](https://github.com/aibraikhan/Phishing-Email-Simulator.git)
   ```
 3. Перейдите в папку проекта и запустите скрипт:
   ```bash
-  python main.py
+  python phishing_email_sim.py
   ```
 4. Следуйте инструкциям на экране для выбора шаблона и ввода данных.
 
